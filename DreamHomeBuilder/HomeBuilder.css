@@ -1,0 +1,142 @@
+﻿body {
+    background-color: #2E51A2;
+    color: white;
+}
+
+#gvHomes {
+    border: solid 1px Black !important;
+}
+
+#gvHomes tr {
+    border: solid 1px Black !important;
+}
+
+#gvHomes td {
+    border: solid 1px Black !important;
+}
+
+#gvHomes th {
+    border: solid 1px Black !important;
+}
+
+#gvRoofing {
+    border: solid 1px Black !important;
+    height: 500px;
+    width: 500px;
+}
+
+#gvRoofing tr {
+    border: solid 1px Black !important;
+}
+
+#gvRoofing td {
+    border: solid 1px Black !important;
+}
+
+#gvRoofing th {
+    border: solid 1px Black !important;
+}
+
+#gvCountertop {
+    border: solid 1px Black !important;
+    height: 500px;
+    width: 500px;
+}
+
+#gvCountertop tr {
+    border: solid 1px Black !important;
+}
+
+#gvCountertop th {
+    border: solid 1px Black !important;
+}
+
+#gvCountertop td {
+    border: solid 1px Black !important;
+}
+
+#gvHomeAdditions {
+    border: solid 1px Black !important;
+    height: 500px;
+    width: 500px;
+}
+
+#gvHomeAdditions tr {
+    border: solid 1px Black !important;
+}
+
+#gvHomeAdditions td {
+    border: solid 1px Black !important;
+}
+
+#gvHomeAdditions th {
+    border: solid 1px Black !important;
+}
+#gvReceipt {
+    border: solid 1px Black !important;
+    height: 300px;
+    width: 300px;
+}
+
+#gvReceipt tr {
+    border: solid 1px Black !important;
+}
+
+#gvReceipt td {
+    border: solid 1px Black !important;
+}
+
+#gvReceipt th {
+    border: solid 1px Black !important;
+}
+
+.buyerInfo h2 {
+    text-align: center;
+}
+
+.buyerInfo h3{
+    place-content:left;
+}
+
+.buyerInfo input[type=text] {
+    width: 300px;
+}
+
+.homeImg {
+    display: grid;
+    place-items: center;
+}
+
+.roofingInfo {
+    display: grid;
+    place-items: center;
+}
+
+.countertopInfo {
+    display: grid;
+    place-items: center;
+}
+
+.homeAdditionInfo {
+    display: grid;
+    place-items: center;
+}
+
+.submit {
+    display: grid;
+    place-items: center;
+}
+
+.receipt {
+    display: grid;
+    place-items: center;
+}
+
+.receiptInfo {
+    display: grid;
+    place-items: center;
+}
+
+.homeplanInfo h2 {
+    text-align: center;
+}
